@@ -70,3 +70,4 @@ sudo cat>/usr/local/etc/trojan/config.json<<EOF
     }
 }
 EOF
+lsmod | grep bbr

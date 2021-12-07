@@ -9,6 +9,8 @@ History文件夹里那些脚本能看出来我中间摸索了很久，而且写�
 但我自己研究的过程还挺开心的(*^_^*)
 
 一键脚本运行命令：  
-wget -N --no-check-certificate "https://raw.githubusercontent.com/Toad-stool/Debian.sh/main/Debian.sh" && chmod +x Debian.sh && ./Debian.sh  
+···Bash
+wget -N --no-check-certificate "https://raw.githubusercontent.com/Toad-stool/Debian.sh/main/Debian.sh" && chmod +x Debian.sh && ./Debian.sh
+```
 
 这个脚本功能简陋，只能部署Trojan，且只适合Debian系统
